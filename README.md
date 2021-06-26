@@ -13,7 +13,7 @@
 
 ### Projects 📁
 
-- Hamthoven's brief coding introduction (Lecture materials)
+- [Hamthoven's brief coding introduction (Lecture materials)](https://github.com/Hamthoven/BriefCodingIntroduction)
 - Sheets and Timetable (platform: Window)
 
 
