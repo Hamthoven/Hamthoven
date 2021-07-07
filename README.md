@@ -15,7 +15,7 @@
 ### Projects 📁
 
 - [Hamthoven's brief coding introduction (Lecture materials)](https://github.com/Hamthoven/BriefCodingIntroduction)
-- ???
+- ...?
 
 <!---
 Hamthoven/Hamthoven is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
