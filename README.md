@@ -11,7 +11,6 @@
 - 📫 Email: hamthoven@gmail.com
 
 ![Hamthoven's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hamthoven&count_private=true&show_icons=true) <br/>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hamthoven&layout=compact)](https://github.com/Hamthoven/QuailSailes)
 
 ### Projects 📁
 
