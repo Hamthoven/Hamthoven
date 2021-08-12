@@ -16,7 +16,7 @@
 ### Projects 📁
 
 - [Hamthoven's brief coding introduction (Lecture materials)](https://github.com/Hamthoven/BriefCodingIntroduction)
-- Music + Diary <MUDA>
+- MUDA: Music + Diary. Add music in your diary.
 - SPOT: Platform for Study Group
 
 <!---
