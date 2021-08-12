@@ -7,15 +7,17 @@
 
 - 👋 Hi, I’m @Hamthoven
 - 👀 I’m interested in C++, Window Programming, Android, Swift, Unity, etc.
-- 🌱 I’m currently learning Kotlin.
+- ✒️ I’m currently making a mobile game.
 - 📫 Email: hamthoven@gmail.com
+- 🏫 B.S. in Software Engineering (Seoul Women's University)
 
 ![Hamthoven's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hamthoven&count_private=true&show_icons=true) <br/>
 
 ### Projects 📁
 
 - [Hamthoven's brief coding introduction (Lecture materials)](https://github.com/Hamthoven/BriefCodingIntroduction)
-- ...?
+- Music + Diary <MUDA>
+- SPOT: Platform for Study Group
 
 <!---
 Hamthoven/Hamthoven is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
