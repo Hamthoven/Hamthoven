@@ -18,6 +18,7 @@
 - [Hamthoven's brief coding introduction (Lecture materials)](https://github.com/Hamthoven/BriefCodingIntroduction)
 - MUDA: Music + Diary. Add music in your diary.
 - SPOT: Platform for Study Group
+- Stylish PB Dock: Limpid dock for clear desktop
 
 <!---
 Hamthoven/Hamthoven is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
