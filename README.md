@@ -18,7 +18,7 @@
 - [Hamthoven's brief coding introduction (Lecture materials)](https://github.com/Hamthoven/BriefCodingIntroduction)
 - MUDA: Music + Diary. Add music in your diary.
 - SPOT: Platform for Study Group
-- Stylish PB Dock: Limpid dock for clear desktop
+- [WhiteSystemInfo: White data information skin for Rainmeter](https://github.com/Hamthoven/WhiteSystemInfo)
 
 <!---
 Hamthoven/Hamthoven is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
