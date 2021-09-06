@@ -18,6 +18,7 @@
 - [Hamthoven's brief coding introduction (Lecture materials)](https://github.com/Hamthoven/BriefCodingIntroduction)
 - MUDA: Music + Diary. Add music in your diary.
 - SPOT: Platform for Study Group
+- Quail Sailes(메추리 매출이) My first Game Project
 - [WhiteSystemInfo: White data information skin for Rainmeter](https://github.com/Hamthoven/WhiteSystemInfo)
 
 <!---
