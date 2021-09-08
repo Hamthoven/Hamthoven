@@ -7,9 +7,9 @@
 
 - 👋 Hi, I’m @Hamthoven
 - 👀 I’m interested in C++, Window Programming, Android, Swift, Unity, etc.
-- ✒️ I’m currently making a mobile game.
+- ✒️ I’m currently making an application to record cultural experience.
 - 📫 Email: hamthoven@gmail.com
-- 🏫 B.S. in Software Engineering (Seoul Women's University)
+- 🏫 B.S. in Software Engineering (Seoul Women's University) 2019-2023
 
 ![Hamthoven's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hamthoven&count_private=true&show_icons=true) <br/>
 
@@ -17,7 +17,7 @@
 
 - [Hamthoven's brief coding introduction (Lecture materials)](https://github.com/Hamthoven/BriefCodingIntroduction)
 - [WhiteSystemInfo: White data information skin for Rainmeter](https://github.com/Hamthoven/WhiteSystemInfo)
-- Quail Sailes(메추리 매출이) My first Game Project
+- Quail Sailes(메추리 매출이): My First Game Project
 - MUDA: Music + Diary. Add music in your diary.
 - SPOT: Platform for Study Group
 
