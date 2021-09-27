@@ -16,11 +16,11 @@
 
 ### Projects 📁
 
-- [Hamthoven's brief coding introduction (Lecture materials)](https://github.com/Hamthoven/BriefCodingIntroduction)
-- [WhiteSystemInfo: White data information skin for Rainmeter](https://github.com/Hamthoven/WhiteSystemInfo)
-- Quail Sailes(메추리 매출이): My First Game Project (Unity-Android)
-- [MUSIC LOG: Music + Diary. Add music in your diary. (iOS)](https://github.com/SWU-GURU2-TEAM2/MUSICLOG)
-- SPOT: Platform for Study Group.
+- [**Hamthoven's brief coding introduction** (Lecture materials)](https://github.com/Hamthoven/BriefCodingIntroduction)
+- [**WhiteSystemInfo**: White data information skin for Rainmeter](https://github.com/Hamthoven/WhiteSystemInfo)
+- **Quail Sailes(메추리 매출이)**: My First Game Project (Unity-Android)
+- [**MUSIC LOG**: Music + Diary. Add music in your diary. (iOS)](https://github.com/SWU-GURU2-TEAM2/MUSICLOG)
+- **SPOT**: Platform for Study Group.
 
 
 <!---
