@@ -12,8 +12,6 @@
 - 🏫 B.S. in **Software Engineering** (Seoul Women's University) 2019-2023.
 - 💻 Craftsman Information Processing (정보처리기능사) in 2018.
 
-![Hamthoven's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hamthoven&count_private=true&show_icons=true) <br/>
-
 ### Projects 📁
 
 - [**Hamthoven's brief coding introduction** (Lecture materials)](https://github.com/Hamthoven/BriefCodingIntroduction)
