@@ -2,8 +2,11 @@
 <!---
 ![Hamthoven's Profile Image](https://github.com/Hamthoven/Hamthoven/blob/main/HamThovenProfile.jpg)
 --->
-
+<div align="center">
+  
 ## About Hamthoven! 🐹
+  
+</div>
 
 - 👋 Hi, I’m Yujin Kang(a.k.a. Hamthoven).
 - 👀 I’m interested in many things, especially **C++, C#, Swift, iOS programming**. 
@@ -13,8 +16,10 @@
 - 💻 Craftsman Information Processing (정보처리기능사) in 2018.
 - 🔊 Languages: Korean(fluent), English
 
-## Skills
+<div align="center">
 
+## Skills
+  
 ### Languages
 
 #### ⭐⭐⭐⭐⭐
@@ -61,6 +66,7 @@
 <img alt="Filezilla" src ="https://img.shields.io/badge/Filezilla-BF0000.svg?&style=for-the-badge&logo=filezilla&logoColor=white"> <img alt="Illustrator" src ="https://img.shields.io/badge/Adobe Ai-FF9A00.svg?&style=for-the-badge&logo=adobeillustrator&logoColor=white">
 <img alt="Xd" src ="https://img.shields.io/badge/Adobe Xd-FF61F6.svg?&style=for-the-badge&logo=adobexd&logoColor=white">
 
+</div>
 
 <!---
 Hamthoven/Hamthoven is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
