@@ -9,8 +9,8 @@
 </div>
 
 - 👋 Hi, I’m Yujin Kang(a.k.a. Hamthoven).
-- 👀 I’m interested in many things, especially **C++, C#, Swift, iOS programming**. 
-- ✒️ I’m currently studying Algorithm and Data Structure.
+- 👀 I’m interested in many things, especially **C++, C#, Swift, iOS programming** and Design. 
+- ✒️ I’m currently studying Design and iOS programming.
 - 📫 Email: **hamthoven@gmail.com**
 - 🏫 B.S. in **Software Engineering** (Seoul Women's University) 2019-2023.
 - 💻 Craftsman Information Processing (정보처리기능사) in 2018.
