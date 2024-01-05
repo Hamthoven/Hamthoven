@@ -9,12 +9,10 @@
 </div>
 
 - 👋 Hi, I’m Yujin Kang(a.k.a. Hamthoven).
-- 👀 I’m interested in many things, especially **C++, Swift, iOS programming** and Design. 
-- ✒️ I’m currently studying iOS programming and Computer Science.
+- 👀 I’m interested in many things, especially **Data, Deep Learning**. 
+- ✒️ I’m currently studying how I can make better. (Good is not enough)
 - 📫 Email: **hamthoven@gmail.com**
 - 🏫 B.S. in **Software Convergence** (Seoul Women's University) 2019-2024.2.
-- 💻 Craftsman Information Processing (정보처리기능사) in 2018.
-- 💾 CSTS FL (소프트웨어테스트 전문가 일반 등급) in 2023.
 - 🔊 Languages: Korean(fluent), English
 
 <div align="center">
